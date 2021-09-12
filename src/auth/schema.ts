@@ -1,4 +1,6 @@
+//importing joi
 import Joi from '@hapi/joi';
+//imprting JoiAuthbearer
 import { JoiAuthBearer } from '../helpers/validator';
 
 export default {
